@@ -1,4 +1,4 @@
-### [![Kiddooo's github stats](https://github-readme-stats.vercel.app/api?username=kiddooo&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/anuraghazra/github-readme-stats)
+### [![Kiddooo's github stats](https://github-readme-stats.vercel.app/api?username=kiddooo&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Kiddooo/kiddooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
